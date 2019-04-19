@@ -1,0 +1,20 @@
+{
+  "ABsefesdfse" : {
+    "deviceId" : 123,
+    "deviceName" : "Device 1",
+    "status" : "Digging",
+    "version" : 1
+  },
+  "SDkjnsdfsdf" : {
+      "deviceId" : 456,
+      "deviceName" : "Device 2",
+      "status" : "Idle",
+      "version" : 1
+  },
+  "srgdthfghnr" : {
+      "deviceId" : 789,
+      "deviceName" : "Device 3",
+      "status" : "Alert",
+      "version" : 1
+  }
+}
