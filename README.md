@@ -1,6 +1,7 @@
 # AddDevice_iOS_project
 
-#Test sending and receiving data from google firbase development platform\\
+#Test sending and receiving data from google firbase development platform\
+\
 
 #To Start\
 #1.clone the project\
